@@ -5,6 +5,7 @@
 >
 ##伪代码
 >Input: an integer n > 1
+
 Let A be an array of Boolean values, indexed by integers 2 to n,
 initially all set to true.
 for i = 2, 3, 4, ..., not exceeding √n:
